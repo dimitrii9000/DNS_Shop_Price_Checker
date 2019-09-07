@@ -10,7 +10,7 @@ URL = 'https://www.dns-shop.ru/product/3a32483fb4cc3330/65-smartfon-apple-iphone
 prefered_price = 80000
 
 # Telegram bot token
-bot = telebot.TeleBot('956905876:AAHqRP_A45LIldMQmDJZV8vu_XFuOpHjU3U')
+bot = telebot.TeleBot('Token')
 
 headers = {"User-Agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36'}
 
